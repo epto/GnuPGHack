@@ -1,7 +1,9 @@
 # GnuPGHack
 Unlocked / Ulimited GnuPG version (GnuPC conspiracy)
 
-=== Questa è una versione di GnuPG non ufficiale.
+===
+Questa è una versione di GnuPG non ufficiale.
+
 Perchè è stata fatta?
 
 Teoria del complotto:
