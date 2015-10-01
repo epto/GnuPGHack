@@ -41,5 +41,14 @@ Non pensiate che sia il top perchè non è ufficiale.
 Le modifiche sono poche:
 * Cambiamento dei valori massimi.
 * Aumento di alcuni parametri.
-
+Raccomandazioni:
+* Non spaventarsi se il computer ci mette 1 o 2 ore a generare le chiavi.
+* Non firmate con tante chiavi a 16384 bit chiavi dei vostri amici, potrebbero seccarsi.
+* Evitate di usare troppo alla leggera le DSA a 8192 bit (non sono ancora state sperimentate del tutto).
+* Non impestare i keyserver con le chiavi sperimentali.
+* Non spaventarsi se la chiave in ASCII armor e lunga (Merito dei 16384 bits).
+* Non installarlo come gpg (make install) non è una buona idea (usalo da g10/gpg).
+* Non fare pacchetti, firmare roba ufficiale o importante con questo.
+* Questa versione non si sostituisce a GnuPG è un test.
+* Ricordati del rito di iniziazione antanico che brematura l'incantesimo dello stragone di Alfa Centauri.
 
